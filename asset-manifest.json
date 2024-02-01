@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hotelbooking-react/static/css/main.a9d8c45e.css",
+    "main.js": "/hotelbooking-react/static/js/main.0af78070.js",
+    "static/media/hotel.jpg": "/hotelbooking-react/static/media/hotel.f663a94fa2068661529f.jpg",
+    "index.html": "/hotelbooking-react/index.html",
+    "main.a9d8c45e.css.map": "/hotelbooking-react/static/css/main.a9d8c45e.css.map",
+    "main.0af78070.js.map": "/hotelbooking-react/static/js/main.0af78070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d8c45e.css",
+    "static/js/main.0af78070.js"
+  ]
+}
